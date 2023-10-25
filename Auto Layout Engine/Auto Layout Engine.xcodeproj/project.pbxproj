@@ -13,6 +13,7 @@
 		C40FADD42AE9A8B700AAAA29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C40FADD22AE9A8B700AAAA29 /* Main.storyboard */; };
 		C40FADD62AE9A8B800AAAA29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C40FADD52AE9A8B800AAAA29 /* Assets.xcassets */; };
 		C40FADD92AE9A8B800AAAA29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C40FADD72AE9A8B800AAAA29 /* LaunchScreen.storyboard */; };
+		C40FADE12AE9B76100AAAA29 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C40FADE02AE9B76100AAAA29 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C40FADD52AE9A8B800AAAA29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C40FADD82AE9A8B800AAAA29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C40FADDA2AE9A8B800AAAA29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C40FADE02AE9B76100AAAA29 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C40FADD52AE9A8B800AAAA29 /* Assets.xcassets */,
 				C40FADD72AE9A8B800AAAA29 /* LaunchScreen.storyboard */,
 				C40FADDA2AE9A8B800AAAA29 /* Info.plist */,
+				C40FADE02AE9B76100AAAA29 /* Images.xcassets */,
 			);
 			path = "Auto Layout Engine";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C40FADD92AE9A8B800AAAA29 /* LaunchScreen.storyboard in Resources */,
+				C40FADE12AE9B76100AAAA29 /* Images.xcassets in Resources */,
 				C40FADD62AE9A8B800AAAA29 /* Assets.xcassets in Resources */,
 				C40FADD42AE9A8B700AAAA29 /* Main.storyboard in Resources */,
 			);
